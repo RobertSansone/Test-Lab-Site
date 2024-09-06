@@ -31,7 +31,7 @@ ___
 
 ### Syd Robinson
 
-I'm a course 3-C junior!
+I'm a course 3-C senior!
 
 __Provides training for the following__:
  - Optical microscope
