@@ -8,6 +8,7 @@ The DMSE Breakerspace welcomes all MIT undergraduates to explore the world of ma
 
 ### Access:
 Location: Room 8-102 (directly off the infinite corridor!). The lab is accessed through the lounge.
+
 Lab and lounge open hours: 8 AM to midnight, 7 days/week.
 
 The lab and lounge are open to all Breakerspace users under MIT tap ID access during open hours.
